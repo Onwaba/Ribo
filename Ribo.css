@@ -1,1 +1,48 @@
-Ribo.css
+body{
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8rTzNshPZYg2K8YA48J2TkBdMW0vu86qJnJMgMsFv75OKXGsvTw")
+
+}
+a{
+  color: white;
+}
+
+p{
+  text-align: center;
+	color: #bb19d8;
+	font: 20px;
+}
+
+h1{
+
+	font: 16px; 
+	color:  #d81990;
+	font-style: cursive;
+  text-align: center;
+
+}
+
+img{
+
+	width: 200;
+	height: 200;
+	border-radius: 6px;
+	box-shadow: 8px;
+}
+
+h3{
+	padding-left: 50px;
+	color:  #055445;
+  text-align: center
+
+}
+
+ul{
+  padding: 10px;
+    background-color: black;
+}
+
+li{
+  padding: 0;
+  text-color: black; 
+ display: inline;
+}
